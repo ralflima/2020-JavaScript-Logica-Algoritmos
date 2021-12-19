@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ralflima/logica/blob/master/icone.pngg" width="30%">
+  <img src="https://github.com/ralflima/logica/blob/master/icone.png" width="30%">
   <h1 style="border-bottom:none">Lógica e Algoritmos</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
